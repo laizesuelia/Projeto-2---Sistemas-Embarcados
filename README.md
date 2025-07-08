@@ -1,1 +1,1 @@
-# Projeto-2---Sistemas-Embarcados
+# Semáfaro Inteligente com Botão de Pedestre em VHDL
